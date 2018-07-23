@@ -25,3 +25,7 @@ li a {
 li a:hover {
     background-color: #111111;
 }
+
+.carousel-caption {
+    color: black;
+}
