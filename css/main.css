@@ -13,10 +13,10 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-ul {
+/*ul {
     border-style: solid;
     border-color: black;      
-}
+}*/
 
 li {
     list-style: none;
@@ -26,3 +26,30 @@ li {
 footer {
     text-align: right;
 }
+
+/* Class Elements ----------------------- */
+.pricing {
+    border-style: solid;
+    border-color: black;
+    padding: 25px 50px;
+    text-align: center;      
+}
+
+/* ID Elements ----------------------- */
+#contact {
+    text-align: left;
+    padding-top: 25px;
+}
+
+#about {
+    padding-top: 25px;
+}
+
+#content {
+    padding-bottom: 25px;
+}
+ #form {
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgrey;
+ }
